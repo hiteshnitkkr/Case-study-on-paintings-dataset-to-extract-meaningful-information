@@ -1,0 +1,1 @@
+# Case-study-on-paintings-dataset-to-extract-meaningful-information
